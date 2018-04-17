@@ -1,2 +1,5 @@
 # Hangman
-Stumper coded in C for the Epitech School
+
+- Create a file with a lot of words on it.
+- ./hangman [filename]
+- Play
